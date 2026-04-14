@@ -29,4 +29,4 @@ Security:
 
 Contact:
 If you have any questions, contact us at:
-[your-email@gmail.com](mailto:your-email@gmail.com)
+[supportjlabs@gmail.com](mailto:your-email@gmail.com)
